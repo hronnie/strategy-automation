@@ -1,0 +1,11 @@
+algos/backtrader_module/backtests/kdj/reports/**
+algos/backtrader_module/data/**
+algos/backtrader_module/backtests/kdj/reports/**
+algos/vectorbt/results
+algos/vectorbt/logs
+algos/vectorbt/data
+algos/vectorbt/strategies/hedge_strategy/*.log
+algos/vectorbt/strategies/hedge_strategy/library/*.log
+algos/vectorbt/strategies/hedge_strategy/__pycache__/*.pyc
+__pycache__/
+algos/vectorbt/strategies/hedge_strategy/__pycache__
